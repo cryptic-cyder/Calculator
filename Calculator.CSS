@@ -1,0 +1,34 @@
+.calculator{
+    height: 330px;
+    width: 310px;
+    background-color: #e8e8e8;
+    margin : 0 auto; /*Move to center*/
+    margin-top: 100px;
+    padding: 10px;
+    border: 1px solid #777;/*creating border*/
+}
+.main-bar{
+    /*designing the main bar or display bar using main-bar class inside the form tag*/
+    margin-bottom: 15px;
+    text-align: right;
+    height: 45px;
+}
+.btn{
+    font-size: 20px;
+    cursor: pointer;
+    width: 69px;
+}
+ 
+.line {
+    
+    margin-bottom: 10px;/*10px margin space between every line*/
+}
+
+.last input{
+    width: 93px;
+}
+#inp{
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(134, 5, 16);
+ }
